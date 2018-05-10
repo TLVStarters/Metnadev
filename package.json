@@ -1,0 +1,21 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@zeit/next-sass": "^0.2.0",
+    "jss": "latest",
+    "material-ui": "next",
+    "next": "latest",
+    "node-sass": "^4.9.0",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-jss": "latest"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
